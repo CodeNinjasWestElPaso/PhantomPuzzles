@@ -1,1 +1,1 @@
-# PhantomPuzzles
+"Phantom Puzzles" is a game designed and created by Luis Alva for his Code Ninjas West El Paso Black Belt Project.  A dynamic puzzle solving game with various levels. In order to win the game you must complete all of the puzzles in each level. The theme of the game is Halloween/ haunted hous
